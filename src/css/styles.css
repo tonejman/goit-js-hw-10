@@ -18,3 +18,21 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+span {
+  font-size: 20px;
+  padding: 8px;
+}
+
+.country-info {
+  font-size: 20px;
+  padding-left: 40px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  color: black;
+}
+
+.info-heading {
+  font-size: 20px;
+  color: blue;
+}
